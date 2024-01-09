@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Cache images using IndexedDB in Tampermonkey
 // @author       You
-// @match        *://*/*
+// @match        https://www.google.com/
 // @grant        none
 // ==/UserScript==
 
