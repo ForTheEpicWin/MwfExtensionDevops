@@ -79,7 +79,7 @@
 
     // Example usage: Replace 'http://example.com/large-image.jpg' with the actual image URL
     // and 'imageElementId' with the ID of an img element on the page.
-    getImage("http://example.com/large-image.jpg", function(src) {
+    getImage("https://wormhole.app/download-stream/hu14FoXtNGcaaWc9nm_8Vw?preview=1", function(src) {
         document.getElementById("imageElementId").src = src;
     });
 
